@@ -1,0 +1,27 @@
+html, body {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	background: #D8D8D8;
+}
+
+
+.top {
+	width: 100%;
+	height: 20%;
+	background: #444444;
+}
+
+.center {
+	width: 70%;
+	height: 70%;
+	background: #EFEFEF;
+	margin: 0 auto;
+}
+
+.bottom {
+	width: 70%;
+	height: 10%;
+	background: #222222;	
+	margin: 0 auto;
+}
